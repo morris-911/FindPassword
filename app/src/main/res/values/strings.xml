@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FindPassword</string>
+    <string name="login_by_password">密碼登入</string>
+    <string name="login_by_vertifycode">驗證碼登入</string>
+    <string name="phone_number">手機號碼：</string>
+    <string name="inout_phone_number">請輸入手機號碼</string>
+    <string name="login_password">登入密碼：</string>
+    <string name="input_password">請輸入密碼</string>
+    <string name="forget_password">忘記密碼</string>
+    <string name="remember_password">記住密碼</string>
+    <string name="login">登&#160; &#160; &#160; 入</string>
+    <string name="inout_new_password">輸入新密碼：</string>
+    <string name="inout_new_password_hint">請輸入新密碼</string>
+    <string name="confirm_new_password">確認新密碼：</string>
+    <string name="confirm_new_password_again">請再次輸入新密碼</string>
+    <string name="verifycode">輸入驗證碼：</string>
+    <string name="verifycode2">&#160; &#160; 驗證碼：</string>
+    <string name="input_verifycode">請輸入驗證碼</string>
+    <string name="get_verifycode">獲取驗證碼</string>
+    <string name="done">確&#160; &#160; &#160;認</string>
+</resources>
